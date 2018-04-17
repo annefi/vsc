@@ -1,0 +1,19 @@
+{
+  "name": "vsc",
+  "version": "1.0.0",
+  "description": "a first test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annefi/vsc.git"
+  },
+  "author": "af",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annefi/vsc/issues"
+  },
+  "homepage": "https://github.com/annefi/vsc#readme"
+}
