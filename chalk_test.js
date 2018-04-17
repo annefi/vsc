@@ -1,2 +1,2 @@
 const chalk = require('chalk');
-console.log(chalk.red('Hello', chalk.underline.bgBlue('world') + '!'));
+console.log(chalk.red('Hello', chalk.underline.bgBlue('World') + '!'));
