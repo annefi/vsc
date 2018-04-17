@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/annefi/vsc/issues"
   },
-  "homepage": "https://github.com/annefi/vsc#readme"
+  "homepage": "https://github.com/annefi/vsc#readme",
+  "dependencies": {
+    "chalk": "^2.4.0"
+  }
 }
